@@ -12,6 +12,7 @@ Final Model Selection: Based on the evaluation results, we selected the LSTM mod
 Results
 
 The LSTM model demonstrated superior performance compared to the other models. It was able to accurately classify the sentiment of tweets with high accuracy and precision.
+
 How to run the code?
 The code is simple to run. Please open the link to the project which is present in this project. Along with this also download the dataset present in the Github. Then, each code snippet will be run step by step and at the end the user will be able to enter different queries to see whether the entered text has positive, negative, or neutral sentiment.
 
